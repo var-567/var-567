@@ -1,6 +1,7 @@
-## Hi there 👋
+
 
 <!--
+## Hi there 👋
 **var-567/var-567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hello, I'm Varshini ! 👋
+
+<li>I'm a Computer Science Gradute (2025)/li>
+## 🌱 Technologies I'm Exploring
+- Generative AI
+
+## 🚀  Worked On
+- React.js
+- Flask
+- Sqlite
+- Solitity
+
+## 😄 About me
+- Adaptive🌱
+- Reslient⚡ 
+
+## 📫 How to Reach Me
+- Email: varshinir373@gmail.com
+- LinkedIn: https://www.linkedin.com/in/varshini-r-960928258/
+
