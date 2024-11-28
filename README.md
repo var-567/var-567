@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## Hello, I'm Varshini ! 👋
 
 <li>I'm a Computer Science Gradute (2025)</li>
+
 ## 🌱 Technologies I'm Exploring
 - Generative AI
 
