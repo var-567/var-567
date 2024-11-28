@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 <li>I'm a Computer Science Gradute (2025)</li>
 
 ## 🌱 Technologies I'm Exploring
-- Generative AI
+- Generative AI(Rag Application)
 
 ## 🚀  Worked On
 - React.js
 - Flask
-- Sqlite
+- Sql
 - Solitity
 
 ## 😄 About me
