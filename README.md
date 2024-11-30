@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 ## 🚀  Worked On
 - React.js
 - Flask
-- Sql
 - Solitity
+- API Integration
 
 ## 😄 About me
 - Adaptive🌱
