@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## 🚀  Worked On
 - React.js
 - Flask
-- Solitity
+- Solidity
 - API Integration
 
 ## 😄 About me
